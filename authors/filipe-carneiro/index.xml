@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Filipe Carneiro on FitPix: AI-Powered Personal Styling App</title>
-    <link>https://gchen9405.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</link>
-    <description>Recent content in Filipe Carneiro on FitPix: AI-Powered Personal Styling App</description>
+    <title>Filipe Carneiro on Simplify</title>
+    <link>https://gchen9405.github.io/academic-dictionary-landing/authors/filipe-carneiro/</link>
+    <description>Recent content in Filipe Carneiro on Simplify</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Gordon Chen</copyright>
-    <atom:link href="https://gchen9405.github.io/hugo-mock-landing-page/authors/filipe-carneiro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gchen9405.github.io/academic-dictionary-landing/authors/filipe-carneiro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>https://gchen9405.github.io/hugo-mock-landing-page/page/</link>
+      <link>https://gchen9405.github.io/academic-dictionary-landing/page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gchen9405.github.io/hugo-mock-landing-page/page/</guid>
+      <guid>https://gchen9405.github.io/academic-dictionary-landing/page/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>https://gchen9405.github.io/hugo-mock-landing-page/post/</link>
+      <link>https://gchen9405.github.io/academic-dictionary-landing/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gchen9405.github.io/hugo-mock-landing-page/post/</guid>
+      <guid>https://gchen9405.github.io/academic-dictionary-landing/post/</guid>
       <description></description>
     </item>
   </channel>

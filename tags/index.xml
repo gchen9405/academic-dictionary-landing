@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on FitPix: AI-Powered Personal Styling App</title>
-    <link>https://gchen9405.github.io/hugo-mock-landing-page/tags/</link>
-    <description>Recent content in Tags on FitPix: AI-Powered Personal Styling App</description>
+    <title>Tags on Simplify</title>
+    <link>https://gchen9405.github.io/academic-dictionary-landing/tags/</link>
+    <description>Recent content in Tags on Simplify</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Gordon Chen</copyright>
-    <atom:link href="https://gchen9405.github.io/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gchen9405.github.io/academic-dictionary-landing/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>https://gchen9405.github.io/hugo-mock-landing-page/tags/index/</link>
+      <link>https://gchen9405.github.io/academic-dictionary-landing/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gchen9405.github.io/hugo-mock-landing-page/tags/index/</guid>
+      <guid>https://gchen9405.github.io/academic-dictionary-landing/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://gchen9405.github.io/hugo-mock-landing-page/tags/privacy/</link>
+      <link>https://gchen9405.github.io/academic-dictionary-landing/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gchen9405.github.io/hugo-mock-landing-page/tags/privacy/</guid>
+      <guid>https://gchen9405.github.io/academic-dictionary-landing/tags/privacy/</guid>
       <description></description>
     </item>
   </channel>
